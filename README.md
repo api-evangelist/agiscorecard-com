@@ -64,5 +64,42 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agiscorecard-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agiscorecard.com/
+AGI Scorecard is a platform that aggregates and curates AI interview videos, creator content, and forecasts related to artificial general intelligence (AGI). It provides a searchable database of AI‑related interviews, original video content, and analytical takeaways, helping researchers, enthusiasts, and industry professionals track AI progress, understand emerging trends, and monitor the AGI countdown. The site also offers tools for evaluating AI developments and visualizing prediction evidence.
+
+**Areas:** Company · AI · AGI · Video · Research · Analytics
+
+## agiscorecard-com on APIs.io
+
+Everything profiled for agiscorecard-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agiscorecard-com/](https://apis.io/providers/agiscorecard-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- agiscorecard-com Badge API — The Badge API from agiscorecard-com — 1 operation(s) for badge.
+- agiscorecard-com Scan API — The Scan API from agiscorecard-com — 1 operation(s) for scan.
+- agiscorecard-com Verify API — The Verify API from agiscorecard-com — 1 operation(s) for verify.
+
+_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agiscorecard.com/)
+- [Changelog](https://agiscorecard.com/changelog)
+- [Privacy policy](https://agiscorecard.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/agiscorecard-com/](https://apis.io/providers/agiscorecard-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for agiscorecard-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agiscorecard-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
