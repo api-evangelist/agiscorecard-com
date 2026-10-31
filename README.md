@@ -74,11 +74,44 @@ Everything profiled for agiscorecard-com is published on APIs.io rather than in 
 
 ### APIs (3)
 
-- agiscorecard-com Badge API — The Badge API from agiscorecard-com — 1 operation(s) for badge.
-- agiscorecard-com Scan API — The Scan API from agiscorecard-com — 1 operation(s) for scan.
-- agiscorecard-com Verify API — The Verify API from agiscorecard-com — 1 operation(s) for verify.
+- [agiscorecard-com Badge API](https://apis.io/apis/agiscorecard-com/agiscorecard-com-badge-api/) — The Badge API from agiscorecard-com — 1 operation(s) for badge.
+- [agiscorecard-com Scan API](https://apis.io/apis/agiscorecard-com/agiscorecard-com-scan-api/) — The Scan API from agiscorecard-com — 1 operation(s) for scan.
+- [agiscorecard-com Verify API](https://apis.io/apis/agiscorecard-com/agiscorecard-com-verify-api/) — The Verify API from agiscorecard-com — 1 operation(s) for verify.
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Agiscorecard Com Agentic Access](https://apis.io/agentic-access/agiscorecard-com/agiscorecard-com-agentic-access/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [ScanReport](https://apis.io/schemas/agiscorecard-com/agiscorecard-com-scan-report/)
+- [VerifyStatus](https://apis.io/schemas/agiscorecard-com/agiscorecard-com-verify-status/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Agiscorecard Com Context](https://apis.io/jsonld/agiscorecard-com/agiscorecard-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [agiscorecard-com API Rules](https://apis.io/rules/agiscorecard-com/agiscorecard-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agiscorecard Com Domain Security](https://apis.io/security/agiscorecard-com/agiscorecard-com-domain-security/)
 
 ## Where to find this API
 
@@ -90,7 +123,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/agiscorecard-com/](https://apis.io/providers/agiscorecard-com/).
+**Kin Score 35.4** — thin · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 56.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 6.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 37.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 13.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agiscorecard-com/](https://apis.io/providers/agiscorecard-com/).
 
 ## How this profile is made
 
